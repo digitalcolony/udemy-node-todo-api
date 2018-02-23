@@ -1,2 +1,4 @@
 node_modules/
 jsconfig.jscon
+server/config/config.json 
+
